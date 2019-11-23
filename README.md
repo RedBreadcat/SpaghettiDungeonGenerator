@@ -1,11 +1,15 @@
 # SpaghettiDungeonGenerator
 A brute force dungeon generator kept in line by a series of constraints.
+
 It's not quite ready for release, but here it is regardless.
 
 ## Requirements
 C++17 compiler
+
 Boost
+
 OpenCV (Unless GAME_COMPILE is defined)
+
 rapidjson
 
 
